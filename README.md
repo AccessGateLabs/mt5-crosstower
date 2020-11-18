@@ -11,6 +11,9 @@ Licensed under the Apache License, Version 2.0 (the "License") you may not use t
 - Website: https://www.accessgatelabs.com
 - LinkedIn: https://www.linkedin.com/company/AccessGateLabs
 
+## Integration Architecture
+<img src="https://github.com/AccessGateLabs/mt5-crosstower/blob/main/EMD(MT5)-AGL-CT.png?raw=true" alt="Integration architecture diagram" width="100%">
+
 Requirements
 ------------
 
