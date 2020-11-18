@@ -29,4 +29,5 @@ Gateway Installation
 
 <img src="https://ddq9rurjysv4s.cloudfront.net/logo/logo.svg" alt="AccessGate Labs Logo" width="70px">
 <img src="https://crosstower.com/wp-content/themes/crosstower/public/assets/img/svg/logo.svg" alt="CrossTower Logo" width="120px">
+<img src="https://emdforex.com/wp-content/uploads/2019/09/emd-forex-new.png" alt="EMD Forex Logo" width="50px">
 <img src="https://www.metatrader5.com/i/metatrader-5-logo.png" alt="MetaTrader5 Logo" width="140px">
